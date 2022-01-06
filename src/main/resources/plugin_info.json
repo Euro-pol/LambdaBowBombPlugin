@@ -1,14 +1,11 @@
 {
-  "name": "PluginExample",
+  "name": "BowBomb",
   "version": "1.0",
-  "authors": [
-    "me",
-    "you"
-  ],
-  "description": "does absolutely nothing",
+  "authors": "StorageESP",
+  "description": "Bowbomb",
   "url": "",
-  "min_api_version": "2.05.01",
+  "min_api_version": "3.0",
   "required_plugins": [],
-  "main_class": "PluginExample",
+  "main_class": "BowBombPluginMain",
   "hot_reload": true
 }
