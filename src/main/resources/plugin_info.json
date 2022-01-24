@@ -1,7 +1,7 @@
 {
   "name": "BowBomb",
   "version": "1.0",
-  "authors": "StorageESP",
+  "authors": [ "StorageESP" ],
   "description": "Bowbomb",
   "url": "",
   "min_api_version": "3.0",
